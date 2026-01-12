@@ -1,4 +1,4 @@
-pyspark==3.5.5
+pyspark==4.1.1
 narwhals
 hdfs
 python-dotenv
