@@ -25,7 +25,7 @@ Analyze and visualize air traffic data at scale using a modern big data stack. T
 ## 🧱 Project Structure
 
 ```bash
-air-flights-big-data-unical/
+analysis-of-airline-flights/
 ├── src/                    # Application code and environment settings
 ├── run.sh                  # Script for local (non-Docker) execution
 ├── docker-compose.yml      # Multi-service Docker configuration (DEV)
