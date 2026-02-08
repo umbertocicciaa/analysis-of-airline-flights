@@ -1,6 +1,6 @@
-# ✈️ Air Flights Big Data @ Unical
+# ✈️ Analysis of airline flights
 
-[![CI - Airflights](https://github.com/umbertocicciaa/air-flights-big-data-unical/actions/workflows/airflights.yml/badge.svg)](https://github.com/umbertocicciaa/air-flights-big-data-unical/actions/workflows/airflights.yml)
+[![CI - Airflights](https://github.com/umbertocicciaa/analysis-of-airline-flights/actions/workflows/airflights.yml/badge.svg)](https://github.com/umbertocicciaa/analysis-of-airline-flights/actions/workflows/airflights.yml)
 
 Analyze and visualize air traffic data at scale using a modern big data stack. This project demonstrates distributed processing with Hadoop and Spark, real-time analytics with Redis, and containerized orchestration via Docker.
 
